@@ -13,7 +13,6 @@ I'm a Los Angeles-based entrepreneur and technology leader with 17+ years of exp
 
 ## 💼 Professional Background
 
-- **Senior Software Engineering Manager** at iBrand LLC
 - **Business Development Manager** at EmailOversight
 - **Affiliate Marketing Specialist** at FASTLIFE LLC
 
