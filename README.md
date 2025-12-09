@@ -9,7 +9,7 @@ I'm a Los Angeles-based entrepreneur and technology leader with 17+ years of exp
 ## 🚀 Current Ventures
 
 - **[AxiaASC](https://axiaasc.com)** - The operating system for modern ambulatory surgery centers. Building AI-powered software to transform how ASCs operate.
-- **[Smash.com](https://smash.com)** - Co-Founder (Jan 2024 - Dec 2025). Pioneering next-generation digital experiences.
+- **[Smash.com](https://smash.com)** - Co-Founder (Jan 2024 - Dec 2025). Fitness supplements company delivering high-quality sports nutrition products.
 
 ## 💼 Professional Background
 
